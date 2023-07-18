@@ -1,0 +1,5 @@
+﻿  Ex3.cpp
+C:\Users\KOT\source\repos\Ex3\Ex3\Ex3.cpp(38,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KOT\source\repos\Ex3\Ex3\Ex3.cpp(48,18): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\KOT\source\repos\Ex3\Ex3\Ex3.cpp(96,41): warning C4305: аргумент: усечение из "double" в "float"
+  Ex3.vcxproj -> C:\Users\KOT\source\repos\Ex3\x64\Debug\Ex3.exe
